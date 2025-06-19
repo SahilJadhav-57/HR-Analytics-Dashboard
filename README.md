@@ -26,5 +26,5 @@ The Excel file `SM Employee.xlsx` contains:
 - All dashboard visuals
 - Formula-based KPIs
 
-### 🔗 GitHub Repository:
-[GitHub Repo Link Here]
+## 📬 Connect with Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sahil-jadhav-6632b9285/) for collaboration or queries.
